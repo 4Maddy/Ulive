@@ -1,6 +1,6 @@
 # Ulive
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://github.com/4Maddy/Ulive/assets/106416909/d8578e73-9cb0-4c21-89c8-cb6427cbbae4)
 
 # Sobre o Projeto
 
