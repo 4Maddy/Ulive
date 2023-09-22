@@ -1,6 +1,8 @@
-# Ulive
+<h1 align="center"> Ulive </h1>
 
-![Capa do Projeto](https://github.com/4Maddy/Ulive/assets/106416909/d8578e73-9cb0-4c21-89c8-cb6427cbbae4)
+<div align="center">
+  <img src="https://github.com/4Maddy/Ulive/assets/106416909/38254a17-8f66-463f-b864-95d864d77ffa" alt="Capa do Projeto">
+</div>
 
 # Plano de Qualidade Ulife Aluno
 
@@ -8,9 +10,9 @@ O Ulife é um ambiente virtual de aprendizagem com a proposta principal de que o
 consiga organizar toda a sua vida acadêmica em um só lugar. Conseguindo assim realizar
 diversas funções desde efetuar pagamento de boletos a acessar a biblioteca virtual.
 
-<h4 align="center"> 
+<h3 align="center"> 
 	🚧  Em desenvolvimento . . .
-</h4>
+</h3>
 
 # Sumário
 
