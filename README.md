@@ -2,55 +2,43 @@
 
 ![Capa do Projeto](https://github.com/4Maddy/Ulive/assets/106416909/d8578e73-9cb0-4c21-89c8-cb6427cbbae4)
 
-# Sobre o Projeto
+# Plano de Qualidade Ulife Aluno
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+O Ulife é um ambiente virtual de aprendizagem com a proposta principal de que o aluno
+consiga organizar toda a sua vida acadêmica em um só lugar. Conseguindo assim realizar
+diversas funções desde efetuar pagamento de boletos a acessar a biblioteca virtual.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
 </h4>
 
-# Índice/Sumário
+# Sumário
 
-* [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
+* [Sobre](#plano-de-qualidade-ulife-aluno)
+* [FURPS](#furps)
+* [Plano de Gerenciamento de Riscos](#plano-de-gerenciamento-de-riscos)
+* [Lista de Riscos](#lista-de-riscos)
+* [Slides Apresentação](#slides-apresentação)
 * [Autores](#autores)
-* [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
+
+# FURPS 
+FURPS é um acrônimo que representa um conjunto de características de qualidade que são
+frequentemente consideradas durante o desenvolvimento de software. Cada letra do acrônimo FURPS
+representa uma categoria diferente de requisitos de qualidade.
+
+Link do documento: https://drive.google.com/drive/u/0/my-drive
+
+# Plano de Gerenciamento de Riscos
 
 
-# Requisitos Funcionais 
+# Lista de Riscos
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
 
-# Tecnologias Usadas
+# Slides Apresentação 
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-# Contribuição
-
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
 
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
 
-# Licença
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
-# Agradecimentos
-
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
