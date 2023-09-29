@@ -31,7 +31,9 @@ representa uma categoria diferente de requisitos de qualidade.
 Link do documento: https://drive.google.com/drive/u/0/my-drive
 
 # Plano de Gerenciamento de Riscos
+O Plano de Gerenciamento de Risco garante que os riscos do projeto sejam devidamente identificados, analisados, documentados, mitigados, monitorados e controlados. Ele descreve a abordagem que será usada para identificar, analisar, priorizar, monitorar e mitigar riscos.
 
+Link do documento: https://drive.google.com/file/d/1m0b3pYKDI-HoM8DczDcWZJG4TklfCFM8/view?usp=sharing
 
 # Lista de Riscos
 
@@ -40,9 +42,6 @@ Link do documento: https://drive.google.com/drive/u/0/my-drive
 
 
 # Autores
-
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
-
 
 <table>
   <tbody>
