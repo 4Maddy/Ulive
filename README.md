@@ -11,7 +11,7 @@ consiga organizar toda a sua vida acadêmica em um só lugar. Conseguindo assim 
 diversas funções desde efetuar pagamento de boletos a acessar a biblioteca virtual.
 
 <h3 align="center"> 
-	🚧  Em desenvolvimento . . .
+	✅  Concluído  . . .
 </h3>
 
 # Sumário
@@ -41,7 +41,8 @@ Link do documento: https://drive.google.com/file/d/1EzlZw9NpQeJuO19jGP7CBeKdeCjO
 
 # Slides Apresentação 
 
-Link do documento: https://drive.google.com/file/d/1Qke9XW_GeiGNIogxHv8oNHdm7jdDEr_b/view?pli=1
+Link da apresentação:
+https://drive.google.com/file/d/1Qke9XW_GeiGNIogxHv8oNHdm7jdDEr_b/view?pli=1
 
 # Autores
 
