@@ -42,7 +42,7 @@ Link do documento: https://drive.google.com/file/d/1EzlZw9NpQeJuO19jGP7CBeKdeCjO
 
 # Slides Apresentação 
 
-Link da apresentação:
+Link slides da apresentação:
 https://drive.google.com/file/d/1piO6QKyAF4TgGl_ucS60L7UE0CNWvN1l/view
 
 # Autores
