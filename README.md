@@ -11,7 +11,7 @@ consiga organizar toda a sua vida acadêmica em um só lugar. Conseguindo assim 
 diversas funções desde efetuar pagamento de boletos a acessar a biblioteca virtual.
 
 <h3 align="center"> 
-	✅  Concluído  . . .
+	✅  Concluído
 </h3>
 
 # Sumário
