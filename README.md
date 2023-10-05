@@ -36,11 +36,12 @@ O Plano de Gerenciamento de Risco garante que os riscos do projeto sejam devidam
 Link do documento: https://drive.google.com/file/d/1m0b3pYKDI-HoM8DczDcWZJG4TklfCFM8/view?usp=sharing
 
 # Lista de Riscos
-
+A lista de risco contém a especificação de cada risco: A Importância, Descrição, Impactos, Estratégias de Mitigação, e Plano de Contingência.
 Link do documento: https://drive.google.com/file/d/1EzlZw9NpQeJuO19jGP7CBeKdeCjOolZX/view?usp=sharing
 
 # Slides Apresentação 
 
+Link do documento: https://drive.google.com/file/d/1Qke9XW_GeiGNIogxHv8oNHdm7jdDEr_b/view?pli=1
 
 # Autores
 
