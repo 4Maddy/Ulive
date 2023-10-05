@@ -28,12 +28,13 @@ FURPS é um acrônimo que representa um conjunto de características de qualidad
 frequentemente consideradas durante o desenvolvimento de software. Cada letra do acrônimo FURPS
 representa uma categoria diferente de requisitos de qualidade.
 
-Link do documento: https://drive.google.com/drive/u/0/my-drive
+Link do documento: https://drive.google.com/file/d/1n9XWqTltrhBNRsMJjPW4Sa0txKGy4ceT/view?usp=sharing
 
 # Plano de Gerenciamento de Riscos
 O Plano de Gerenciamento de Risco garante que os riscos do projeto sejam devidamente identificados, analisados, documentados, mitigados, monitorados e controlados. Ele descreve a abordagem que será usada para identificar, analisar, priorizar, monitorar e mitigar riscos.
 
-Link do documento: https://drive.google.com/file/d/1m0b3pYKDI-HoM8DczDcWZJG4TklfCFM8/view?usp=sharing
+Link do documento: 
+https://drive.google.com/file/d/1m0b3pYKDI-HoM8DczDcWZJG4TklfCFM8/view?usp=sharing
 
 # Lista de Riscos
 A lista de risco contém a especificação de cada risco: A Importância, Descrição, Impactos, Estratégias de Mitigação, e Plano de Contingência.
@@ -42,7 +43,7 @@ Link do documento: https://drive.google.com/file/d/1EzlZw9NpQeJuO19jGP7CBeKdeCjO
 # Slides Apresentação 
 
 Link da apresentação:
-https://drive.google.com/file/d/1Qke9XW_GeiGNIogxHv8oNHdm7jdDEr_b/view?pli=1
+https://drive.google.com/file/d/1piO6QKyAF4TgGl_ucS60L7UE0CNWvN1l/view
 
 # Autores
 
